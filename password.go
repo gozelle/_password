@@ -1,4 +1,4 @@
-package _crypto
+package _password
 
 import (
 	"fmt"
